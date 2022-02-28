@@ -1,0 +1,3 @@
+Folder name "testscafe" should be named testcafe as later on will show since npx run script is:
+
+npx testcafe chrome testcafe/test.spec.js -speed 0.5
